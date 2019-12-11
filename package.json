@@ -1,0 +1,13 @@
+{
+  "name": "Yahoo!-Search",
+  "version": "0.0.1",
+  "description": "set search provider to Yahoo!",
+  "scripts": {
+    "dev": "webextension-toolbox dev",
+    "build": "webextension-toolbox build"
+  },
+  "devDependencies": {
+    "addons-linter": "^1.19.0",
+    "webextension-toolbox": "latest"
+  }
+}
