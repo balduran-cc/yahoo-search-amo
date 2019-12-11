@@ -8,6 +8,8 @@
   },
   "devDependencies": {
     "addons-linter": "^1.19.0",
+    "terser-webpack-plugin": "^2.2.2",
     "webextension-toolbox": "latest"
-  }
+  },
+  "dependencies": {}
 }
